@@ -2,13 +2,13 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Surya_developer)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=suryadevelope.suryadevelope&style=flat-square&color=0088cc)
 
 I'm a third year student pursuing Bachelors's in electrical and electronic engineering 🎓 from Siddhartha institute of technology(JHTUH) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web & App Development🕸️ and working on my Data Structures and Algorithms 🤓.
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=suryadevelope&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/suryadevelope/developer/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
