@@ -50,58 +50,19 @@ I'm a third year student pursuing Bachelors's in electrical and electronic engin
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
   <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/suryadevelope/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/suryadevelope/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/suryadevelope/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/suryadevelope/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/suryadevelope/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/suryadevelope/Gitwar?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/suryadevelope/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/suryadevelope/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/suryadevelope/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/suryadevelope/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/suryadevelope/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/suryadevelope/TradeByte?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/suryadevelope/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/suryadevelope/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/suryadevelope/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/suryadevelope/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/suryadevelope/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/suryadevelope/TheNodeCourse?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
+ 
 </details>
  
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
+  	    <li><b>OS:</b> Windows 10</li>
+	    <li><b>Laptop: </b> Lenovo ideapad 330</li>
+  	    <li><b>Browser: </b> Chrome Developer Edition</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/suryadevelope/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	
 	</ul>	
 </details>
 
