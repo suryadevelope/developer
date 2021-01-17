@@ -42,8 +42,8 @@ I'm a third year student pursuing Bachelors's in electrical and electronic engin
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprakash&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryadevelope&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadevelope&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
@@ -63,28 +63,28 @@ I'm a third year student pursuing Bachelors's in electrical and electronic engin
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
+	      <td><a href="https://github.com/suryadevelope/Gitwar"><b>🚀 Gitwar</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/suryadevelope/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/suryadevelope/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/suryadevelope/Gitwar?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/suryadevelope/Gitwar?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/suryadevelope/Gitwar?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/suryadevelope/TradeByte"><b>💸 TradeByte</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/suryadevelope/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/suryadevelope/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/suryadevelope/TradeByte?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/suryadevelope/TradeByte?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/suryadevelope/TradeByte?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
+	      <td><a href="https://github.com/suryadevelope/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/suryadevelope/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/suryadevelope/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/suryadevelope/TheNodeCourse?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/suryadevelope/TheNodeCourse?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/suryadevelope/TheNodeCourse?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
@@ -101,7 +101,7 @@ I'm a third year student pursuing Bachelors's in electrical and electronic engin
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/suryadevelope/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
