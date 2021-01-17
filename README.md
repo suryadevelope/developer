@@ -46,12 +46,7 @@ I'm a third year student pursuing Bachelors's in electrical and electronic engin
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadevelope&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
-  <br />
- 
-</details>
  
 <details>	
   <br />
@@ -61,9 +56,8 @@ I'm a third year student pursuing Bachelors's in electrical and electronic engin
 	    <li><b>Laptop: </b> Lenovo ideapad 330</li>
   	    <li><b>Browser: </b> Chrome Developer Edition</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
-	    <br />
-	
-	</ul>	
+	   
+</ul>	
 </details>
 
 #
