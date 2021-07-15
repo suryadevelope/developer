@@ -60,7 +60,7 @@ I'm a third year student pursuing Bachelors's in electrical and electronic engin
 </ul>	
 </details>
 
-#
+
 
 <div align="center">
 
