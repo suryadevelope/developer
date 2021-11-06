@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=suryadevelope.suryadevelope&style=flat-square&color=0088cc)
 
-I'm a third year student pursuing Bachelors's in electrical and electronic engineering 🎓 from Siddhartha institute of technology(JHTUH) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web & App Development🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a final year student pursuing Bachelors's in electrical and electronic engineering 🎓 from Siddhartha institute of technology(JHTUH) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web & App Development🕸️ and working on my Data Structures and Algorithms 🤓.
 
 [![](https://gitwar.herokuapp.com/badge?username=suryadevelope&label=Suryadevelope%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
