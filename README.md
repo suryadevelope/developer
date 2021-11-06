@@ -17,7 +17,7 @@ I'm a third year student pursuing Bachelors's in electrical and electronic engin
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/suryadevelope).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/suryadevelope/developer/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: surya@blockysite.codes
+- 📫 &nbsp; How to reach me: surya@blockysite.com
 
 ### Languages and Tools:
 
