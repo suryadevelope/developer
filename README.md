@@ -52,10 +52,10 @@ I'm a first year student pursuing Master's in power electronics and electrical d
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> Lenovo ideapad 330</li>
-  	    <li><b>Browser: </b> Chrome Developer Edition</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+  	    <li><b>OS:</b> Windows 10,ubuntu 20</li>
+	    <li><b>Laptop: </b> Lenovo ideapad 330, Dell xps, windows surface book</li>
+  	    <li><b>Browser: </b> Chrome Developer Edition,Mozilla firefox,safari</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there,android studio</li>
 	   
 </ul>	
 </details>
