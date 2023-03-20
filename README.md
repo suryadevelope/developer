@@ -37,6 +37,11 @@ I'm a first year student pursuing Master's in power electronics and electrical d
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
+
+### Domains:
+- 🏻‍💻 &nbsp; [BlockySite.com](https://blockysite.com).
+- 🏻‍💻 &nbsp; [epitresearchlab.com](https://epitresearchlab.com).
+
 ### Projects and Dev Stuffs:
 
 <details>	
