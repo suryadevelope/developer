@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=suryadevelope.suryadevelope&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in electrical and electronic engineering 🎓 from Siddhartha institute of technology(JHTUH) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web & App Development🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a first year student pursuing Master's in power electronics and electrical drives 🎓 from Anurag university 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web & App Development🕸️ and working on my Data Structures and Algorithms 🤓.
 
 [![](https://gitwar.herokuapp.com/badge?username=suryadevelope&label=Suryadevelope%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -12,12 +12,12 @@ I'm a final year student pursuing Bachelors's in electrical and electronic engin
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with java, Javascript, react native,android studio ide,Xcode ide,flutter etc.
+- 🛠 &nbsp; I’m currently working with java, Javascript, react native,android studio ide,Xcode ide,flutter,php,sql,aws, also in iot, embeded, hardware solutions etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/suryadevelope).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/suryadevelope/developer/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: surya@blockysite.com
+- 📫 &nbsp; How to reach me: surya@blockysite.com||surya@epitresearchlab.com
 
 ### Languages and Tools:
 
