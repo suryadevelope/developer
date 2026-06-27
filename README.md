@@ -17,7 +17,7 @@ I'm a first year student pursuing phd in power electronics and embedded drives �
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/suryadevelope).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/suryadevelope/developer/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: surya@blockysite.com || surya@epitresearchlab.com
+- 📫 &nbsp; How to reach me: surya@epitresearchlab.com
 
 ### Languages and Tools:
 
@@ -34,7 +34,6 @@ I'm a first year student pursuing phd in power electronics and embedded drives �
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### Domains:
-- 🏻‍💻 &nbsp; [BlockySite.com](https://blockysite.com).
 - 🏻‍💻 &nbsp; [epitresearchlab.com](https://epitresearchlab.com).
 
 ---
